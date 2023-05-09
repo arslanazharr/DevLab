@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/DevLab/static/css/main.1d46597b.css",
+    "main.js": "/DevLab/static/js/main.61c2eb1b.js",
+    "static/media/black-tech.svg": "/DevLab/static/media/black-tech.b54ac0d33bfad160d604.svg",
+    "static/media/coding.png": "/DevLab/static/media/coding.cd3b4af6b547cdbae8ca.png",
+    "static/media/about.png": "/DevLab/static/media/about.f52c09942871705854da.png",
+    "static/media/instagram.png": "/DevLab/static/media/instagram.b81cb6b0da2158496140.png",
+    "static/media/strategy.png": "/DevLab/static/media/strategy.19d65146174d56805c10.png",
+    "static/media/linkedin.png": "/DevLab/static/media/linkedin.f17255d0e41ba53149d1.png",
+    "static/media/social.png": "/DevLab/static/media/social.330ebef08632b8113e40.png",
+    "static/media/facebook.png": "/DevLab/static/media/facebook.4c9ae4e9deff52283b48.png",
+    "static/media/smile.png": "/DevLab/static/media/smile.cf2cbe7a47e8066433fc.png",
+    "index.html": "/DevLab/index.html",
+    "main.1d46597b.css.map": "/DevLab/static/css/main.1d46597b.css.map",
+    "main.61c2eb1b.js.map": "/DevLab/static/js/main.61c2eb1b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d46597b.css",
+    "static/js/main.61c2eb1b.js"
+  ]
+}
