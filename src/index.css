@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Ubuntu", sans-serif;
+}
+
+body {
+  min-height: 100%;
+  background-color: #f3f3f3;
+}
+
+/* body {
+  background-image: url(./graphics/images/Banners/web\ bg.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+} */
+
+.btn-outline-primary {
+  border-color: #323335 !important;
+  color: #323335 !important;
+}
+
+.btn-outline-primary:hover {
+  color: white !important;
+  background-color: #323335 !important;
+}
